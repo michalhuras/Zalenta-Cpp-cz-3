@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500845709 source:c:\users\u¿ytkownik\desktop\kursy\c++\zelentcpp3\projekt 14.1\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
